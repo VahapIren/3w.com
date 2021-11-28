@@ -1,3 +1,4 @@
 function show Message{
 console.log("merhaba")
+console.log
 }
